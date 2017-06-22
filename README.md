@@ -1,24 +1,10 @@
-# README
+# Templater
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This little project is intended to test Rails ability to:
 
-Things you may want to cover:
+* Customize the rendering stack to look up templates
+from the database
 
-* Ruby version
+* Use Ruby Hash lookup
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Speed up controllers with ActionController::Metal
